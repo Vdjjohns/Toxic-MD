@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348024906596"
-global.ownername = "🃏Joker🃏"
+global.ownernomer = "254108988663"
+global.ownername = "🃏 VDEEJAY JOHN'S🃏"
 global.ytname = "YT: Resonex"
 global.socialm = "GitHub: Joker-Reincarnated"
-global.location = "Nigeria, Lagos, Ikeja"
+global.location = "Kenya, Nairobi, Kitale"
 
-global.ownernumber = '2349168929037'  //creator number
-global.ownername = '🃏Joker🃏' //owner name
+global.ownernumber = '254108988663'  //creator number
+global.ownername = '🃏 VDEEJAY JOHNS🃏' //owner name
 global.botname = '☣️ Toxic MD' //name of the bot
 
 //sticker details
@@ -24,15 +24,15 @@ global.wm = "🃏Joker🃏"
 global.link = 'https://whatsapp.com/channel/0029VaN8F9MG8l5KA9Jx0Q0X'
 
 //custom prefix
-global.prefa = ['']
+global.prefa = ['🔥']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
-global.anti92 = true //auto block +92 
+global.autobio = false //auto update bio
+global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
 //menu type 
@@ -54,7 +54,7 @@ global.mess = {
     prem: ' ᶠᶸᶜᵏᵧₒᵤ! ☣︎ This feature can be used by ☣︎ Toxic MD only',
     admin: 'ᶠᶸᶜᵏᵧₒᵤ! ☣️ Toxic MD can be used by Admin only',
     botAdmin: 'ᶠᶸᶜᵏᵧₒᵤ! ☣︎ This feature can only be used when ☣️ Toxic MD is a group admin ',
-    owner: 'ᶠᶸᶜᵏᵧₒᵤ! ☣️ Toxic MD can be used by 🃏Joker🃏 only',
+    owner: 'ᶠᶸᶜᵏᵧₒᵤ! ☣️ Toxic MD can be used by 🃏John🃏 only',
     group: 'ᶠᶸᶜᵏᵧₒᵤ! ☣︎ This feature is only usable when you add Toxic MD to groups ☣',
     private: '☣️ Toxic MD is only for private chats',
     wait: 'Processing.... ',    
